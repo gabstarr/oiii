@@ -17,4 +17,8 @@
 
 let estados =['RS', 'SC','PR','SP','RJ','MG','ES','MT','MS','GO', 'DF','AC','RO', 'AM', 'RR', 'PA', 'AP', 'TO', 'MA', 'PI', 'CE','RN','PB', 'BA', 'FE', 'AL', 'SE',
      ];
-     
+let i=0;
+     while (i<5 ){
+console.log(i);
+i=i+1;
+     }
